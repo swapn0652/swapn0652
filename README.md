@@ -2,7 +2,7 @@
 
 💻 **Software Engineer | Problem Solver**
 
-I specialize in building scalable web applications with clean, efficient code. With hands-on experience across the frontend, I’m focused on delivering performant and maintainable software solutions.
+I specialize in building scalable web applications with clean, efficient code. With hands-on experience on production applications, I’m focused on delivering performant and maintainable software solutions.
 
 ---
 
